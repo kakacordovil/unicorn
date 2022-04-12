@@ -3,7 +3,9 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background:url(Untitled.png) top right no-repeat; background-attachment:fixed;
+    background:url(Untitled.png) top right no-repeat; 
+    /*background-attachment:fixed;
+    */
 }
 
 .title{

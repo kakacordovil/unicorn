@@ -4,10 +4,6 @@
 body{
     font-family: 'Poppins', sans-serif;
     background:url(VectaryTexture.png) top right no-repeat; 
-    background:url(Vector13.png) top right no-repeat; 
-    
-    /*background-attachment:fixed;
-    */
 }
 
 .title{

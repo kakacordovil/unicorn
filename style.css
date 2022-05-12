@@ -4,14 +4,14 @@ ul {
     list-style-type: none;
     font-family: 'Poppins', sans-serif;
     color: black;
-    font-size:medium;
+    font-size:small;
     background-color:#F5D3EF;
     margin: 0;
     padding: 0;
   }
 
   li {
-    display: inline;
+    display: block;
     float: right;
   }
   

@@ -1,23 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
 ul {
-    list-style-type: none;
     font-family: 'Poppins', sans-serif;
-    color: black;
-    font-size:small;
     background-color:#F5D3EF;
-    margin: 0;
-    padding: 0;
+
   }
 
-  li {
+/*  li {
     display: block;
     float: right;
-  }
+  } */
   
   a {
-    display: block;
-    padding: 8px;
     background-color: #F5D3EF;
   }
   
